@@ -10,6 +10,6 @@ class DemoTest {
 
     @Test
     public void test_Fail() {
-        Assert.assertFalse(false);
+        Assert.assertFalse(true);
     }
 }
